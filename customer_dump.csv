@@ -1,0 +1,8 @@
+Customer_ID,Name,Join_Date,Phone,Email
+1001,Alice Smith,15-01-2023,(555) 123-4567,alice@example.com
+1002,Bob Jones,02/20/2023,555.987.6543,bob@example.com
+1003,Charlie,2023.03.10,555 111 2222,
+1004,David Brown,05-04-2023,Unknown,david@example
+1002,Bob Jones,02/20/2023,555.987.6543,bob@example.com
+1005,,01/01/2023,555-000-0000,eve@example.com
+1006,Frank White,Not available,555-123-4567,frank@example.com
