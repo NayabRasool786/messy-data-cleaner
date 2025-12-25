@@ -1,6 +1,7 @@
-# 🧹 Automated Customer Data Cleaning Pipeline
+# Automated Customer Data Cleaning Pipeline
 
 ## 📌 Project Overview
+It is a part of my Data Engineering Projects Series
 
 This project is a Python-based **ETL (Extract, Transform, Load)** script designed to clean messy, real-world customer data.
 
